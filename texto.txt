@@ -1,4 +1,1 @@
-cambi9 de prueba
-cambio 2
-
-comentario de prueba, con cambio de estado
+comentario de prueba, con cambio de estado, registrando horas y transicionando
