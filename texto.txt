@@ -1,1 +1,1 @@
-comentario de prueba, con cambio de estado, registrando horas y transicionando
+comentario de prueba, con cambio de estado, registrando horas, cambiando resolution  y transicionando
